@@ -1,0 +1,18 @@
+{title}{reset}
+~~{Y} Introductions {E}
+
+
+
+    * I'll start{pause}, I'm Jeremy Stott {P}(jeremy@stott.co.nz){E}
+{pause}
+{O}    ###    {E} 
+{O}    ###    {E}  ___ __  __                               _   _
+{O}##### #####{E} |_ _|  \/  | ___  __ _ ___ _   _ _ __ ___| | | |
+{O}## ## ## ##{E}  | || |\/| |/ _ \/ _` / __| | | | '__/ _ \ | | |
+{O}## ## ## ##{E}  | || |  | |  __/ (_| \__ \ |_| | | |  __/ |_| |
+{O}## ##### ##{E} |___|_|  |_|\___|\__,_|___/\__,_|_|  \___|\___/ 
+{O}   ## ##   {E}  
+{O}   ## ##   {E}         
+{O}   #####   {E}      
+
+{pause}    * Linux{pause}, (recently OSX){pause}, Python{pause}, C{pause}, JS{pause}, Android & iOS

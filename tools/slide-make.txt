@@ -1,0 +1,18 @@
+{title}{reset}
+~~{Y} Make {E}
+
+
+  Most of you should be familiar with makefiles
+
+
+    {Y}rule: dependency
+        command arg1 arg2 arg3
+    {E}
+  
+  Originally designed to be written by hand, but these
+  days almost always generated / configured in some form.
+
+
+    {B}${E} ./configure
+    {B}${E} make
+    {B}${E} make install

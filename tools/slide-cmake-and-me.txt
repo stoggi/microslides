@@ -1,0 +1,17 @@
+{title}{reset}
+~~{Y} CMake {E}
+
+
+
+  What I have managed to get CMake to do for me:
+
+
+    * Code generation for version strings
+
+    * Custom targets for flashing firmware
+
+    * Common source files between multiple applications
+
+    * Crazy CMake functions for building unit tests
+
+    * Quick Demo...

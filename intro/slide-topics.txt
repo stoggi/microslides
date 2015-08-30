@@ -1,0 +1,17 @@
+{title}{reset}
+~~{Y} Topics {E}
+
+
+    {R}Suggest them here, email me, use meetup.com{E}
+
+    * A Problem you are stuck on
+
+    * Something you have built
+
+    * Something you want someone else to build
+
+    * A neat program you have found
+
+    * A work-flow that works well
+
+    * ...

@@ -1,0 +1,14 @@
+{title}{reset}
+~~{Y} Suggested Format {E}
+
+
+
+    * 6:30pm Start
+
+    * Introductions
+
+    * Presentations (30 - 40 mins each)
+
+    * Discussions
+
+    * 8:30pm Finish

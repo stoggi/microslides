@@ -1,0 +1,19 @@
+{title}{reset}
+~~{Y} These Slides {E}
+
+
+    {pause}* First meetup, decided to do something fun
+
+    {pause}* Inspired by {P}presentty{E} (James E. Blair, Linux.conf.au)
+
+    {pause}* Wrote my own program in Python, running on a micro
+
+    {pause}* http://micropython.org/
+
+      - STM32F405 (Cortex M4)
+      - 1MB Flash
+      - 192KB RAM
+      - Python 3
+      - £28
+
+    {pause}* Quick Demo...

@@ -1,0 +1,16 @@
+{title}{reset}
+~~{Y} My Motivation To Start AESM {E}
+
+
+
+ In the NZ embedded systems industry, we need more:
+
+{pause}    * Collaboration
+
+{pause}    * Inspiration
+
+{pause}    * Innovation
+
+{pause}    * Excitement
+
+{pause}    * Automation!

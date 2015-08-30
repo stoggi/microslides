@@ -1,0 +1,14 @@
+{title}{reset}
+~~{Y} Auckland Embedded Systems Meetup {E}
+
+
+
+    * Started 4 months ago.
+
+    * Over 70 members!
+
+    * Over 30 RSVPs for this meetup!
+
+    * Fantastic turnout for the first meetup.
+
+    * Awesome venue!

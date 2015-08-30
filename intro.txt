@@ -1,0 +1,14 @@
+intro/slide-splash.txt
+intro/slide-intro.txt
+intro/slide-housekeeping.txt
+intro/slide-aesm.txt
+intro/slide-grid-logo.txt
+intro/slide-meetup-logo.txt
+intro/slide-motivation.txt
+intro/slide-i-would-like.txt
+intro/slide-you-would-like.txt
+intro/slide-meetup-format.txt
+intro/slide-code-of-conduct.txt
+intro/slide-topics.txt
+intro/slide-drinks.txt
+intro/slide-questions.txt

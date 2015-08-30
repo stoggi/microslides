@@ -1,0 +1,15 @@
+{title}{reset}
+~~{Y} These Slides {E}
+
+
+
+  Useful software used to create these slides:
+
+
+    * im2a, convert images to 256 color ansi art
+
+    * figlet, creates large text using ascii
+
+    * Python!
+
+    * Sublime Text

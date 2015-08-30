@@ -1,0 +1,19 @@
+{title}{reset}
+~~{Y} CMake {E}
+
+
+
+    * Been around for 15 years
+
+    * Open Source
+
+    * Cross-Platform
+
+    * Compiler independant
+
+    * Supports multiple backends, Visual Studio, XCode,
+      Make, {P}and recently Ninja!{E}
+
+
+
+    {pause}* There is the learning mountain.

@@ -1,0 +1,18 @@
+{title}{reset}
+~~{Y} Why does speed matter? {E}
+
+
+
+
+
+
+        
+          Compilers hold a mutex on your brain.
+
+    
+
+
+
+
+
+              {P}(A line by Jussi Pakkanen, author of Meson){E}

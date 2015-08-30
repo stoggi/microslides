@@ -1,0 +1,16 @@
+{title}{reset}
+~~{Y} The command line? {E}
+
+
+
+
+    {P}The single most important tool that I use in
+    my workflow, is the command line.{E}
+
+
+    {pause}The command line allows me to efficiently use:
+
+    {pause}Git{pause}, Python{pause}, CMake{pause}, Ninja{pause}, GCC{pause}, GDB
+
+
+    {pause}{B}Even this presentation!{E}

@@ -1,0 +1,15 @@
+{title}{reset}
+~~{Y} Refreshments? {E}
+
+
+  Do you want some tasty beverages at this meetup?
+
+    * Tea / Coffee
+
+    * Water
+
+    * Juice
+
+    * Beer
+
+    * Not thirsty

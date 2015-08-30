@@ -1,0 +1,15 @@
+tools/slide-splash.txt
+tools/slide-splash2.txt
+tools/slide-command-line.txt
+tools/slide-bash.txt
+tools/slide-heart.txt
+tools/slide-slides.txt
+tools/slide-slides-software.txt
+tools/slide-build-intro.txt
+tools/slide-make.txt
+tools/slide-ninja.txt
+tools/slide-speed.txt
+tools/slide-cmake.txt
+tools/slide-cmake-and-me.txt
+tools/slide-meson.txt
+tools/slide-questions.txt

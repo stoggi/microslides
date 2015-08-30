@@ -1,0 +1,14 @@
+{title}{reset}
+~~{Y} Bash {E}
+
+
+
+
+    When I say, command line, I mean bash.
+
+    {pause}bash != cmd
+
+    {pause}{Y}Disclamer:{E} While you can use the Windows command line
+    with the following tools, it is strongly discouraged.
+
+    {pause}{P}PS1='C:${PWD//\//\\\}>'{E}

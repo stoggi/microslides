@@ -1,0 +1,10 @@
+{title}{reset}
+~~{Y} Housekeeping {E}
+
+
+
+    * Toilets
+
+    * Emergency Exits
+
+    * Water

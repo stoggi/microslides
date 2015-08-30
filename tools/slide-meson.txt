@@ -1,0 +1,18 @@
+{title}{reset}
+~~{Y} Meson {E}
+
+
+
+  New build tool on the block
+
+    * Currently implemented in Python (y)
+
+    * Uses Ninja as a backend
+
+    * Cross Platform
+
+    * Open Source
+
+    * Really fast to get going!
+
+    * Quick demo...

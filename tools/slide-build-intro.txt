@@ -1,0 +1,14 @@
+{title}{reset}
+~~{Y} Build Tools {E}
+
+
+
+ So you are sick of typing {Y}gcc -o myapp main.c source2.c...{E}
+
+    {pause}> Make (Automates executing commands with dependencies)
+
+    {pause}> Ninja (Same thing, but faster!)
+
+    {pause}> CMake (Generates the Make and Ninja files)
+
+    {pause}> Meson (Promising new tool)

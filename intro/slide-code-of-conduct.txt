@@ -1,0 +1,14 @@
+{title}{reset}
+~~{Y} Code of Conduct {E}
+
+
+
+{pause}    1. Everybody is welcome
+
+{pause}    2. Be respectful
+
+{pause}    3. Be considerate
+
+{pause}    4. Use appropriate language / content
+
+{pause}    5. Be friendly and helpful
