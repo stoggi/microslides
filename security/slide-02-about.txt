@@ -1,0 +1,15 @@
+{title}{reset}
+~~{Y} About Me {E}
+
+
+ {Grey}I am:{E}
+
+    * Embedded Systems Engineer
+
+    * Python Enthusiast
+
+ {Grey}Who gets excited about:{E}
+
+    * Open source software, and open hardware
+
+    * Most recently, {R}Security{E}

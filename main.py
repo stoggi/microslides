@@ -8,6 +8,11 @@ colors = {
 	'{G}': '\033[92m',
 	'{Y}': '\033[93m',
 	'{R}': '\033[91m',
+	'{CY}': '\033[96m',
+	'{Grey}': '\033[1;30m',
+	'{Black}': '\033[30m',
+	'{BG_CY}': '\033[46m',
+	'{BG_G}': '\033[42m',
 	'{E}': '\033[0m',
 	'{O}': '\033[38;5;202m',
 	'{W}': '\033[38;5;255m',
@@ -52,9 +57,8 @@ def calibrate():
 			print(data, end="")
 			pyb.delay(200)
 
-def play(slide_file, start=0):
-	
-	slide_files = slides(slide_file)
+def play(slide_folder, start=0):
+	slide_files = slides(slide_folder)
 	index = start
 	total = len(slide_files)
 
@@ -76,9 +80,9 @@ def play(slide_file, start=0):
 		index += 1
 	print()
 
-def slides(filename):
-	with open(filename, 'r') as f:
-		return f.readlines()
+def slides(foldername):
+	slides = os.listdir(foldername)
+	return [foldername + '/' + slide for slide in slides]
 
 def list(filename):
 	for index, name in enumerate(slides(filename)):

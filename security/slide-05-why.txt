@@ -1,0 +1,14 @@
+{title}{reset}
+~~{Y} Why this talk? {E}
+
+
+
+
+
+ 1. To reinforce what I learned on the safestack course.
+
+
+ 2. Something outside my comfort zone.
+
+
+ 3. To share a few interesting bits with you.
