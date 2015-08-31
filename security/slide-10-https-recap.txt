@@ -1,0 +1,13 @@
+{title}{reset}
+~~{Y} HTTPS {E}
+
+
+
+
+    * Confidentiality {Grey}Your data is encrypted{E}
+
+
+    * Authenticity {Grey}You are talking to the right person{E}
+
+
+    * Integrity {Grey}Your data has not been modified{E}

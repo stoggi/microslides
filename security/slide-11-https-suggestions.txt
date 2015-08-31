@@ -1,0 +1,16 @@
+{title}{reset}
+~~{Y} HTTPS {E}
+
+
+
+
+    * Always deploy HTTPS for all content.
+
+    * Redirect all requests to be served over HTTPS.
+
+    * Enable strict transport security (HSTS)
+
+    * Set the secure flag on your cookies
+
+    * Configure your ciphers (Forward Secrecy, Strength)
+      {B}https://www.ssllabs.com/ssltest/{E}

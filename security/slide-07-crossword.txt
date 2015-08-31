@@ -8,7 +8,7 @@
 
   * You have to fill in all the gaps
 
-  * Always obvious in hindsight
+  * Obvious in hindsight
 
   * You have to wait until later to find out if you got it
     wrong

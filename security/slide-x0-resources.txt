@@ -1,0 +1,13 @@
+{title}{reset}
+~~{Y} Links {E}
+
+
+https://www.owasp.org/
+https://www.fullstackpython.com
+
+HTTPS
+
+https://18f.gsa.gov/2015/07/16/introduction-to-https-webinar
+http://erik.io/blog/2013/06/08/a-basic-guide-to-when-and-how
+-to-deploy-https/
+

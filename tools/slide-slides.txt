@@ -2,11 +2,9 @@
 ~~{Y} These Slides {E}
 
 
-    {pause}* First meetup, decided to do something fun
-
     {pause}* Inspired by {P}presentty{E} (James E. Blair, Linux.conf.au)
 
-    {pause}* Wrote my own program in Python, running on a micro
+    {pause}* Written in Python, running on a microcontroller
 
     {pause}* http://micropython.org/
 
@@ -14,6 +12,3 @@
       - 1MB Flash
       - 192KB RAM
       - Python 3
-      - £28
-
-    {pause}* Quick Demo...
