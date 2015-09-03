@@ -1,0 +1,10 @@
+
+
+
+
+
+
+    
+    {B}Authorisation{E}
+
+    Verify that the user is allowed to do something.

@@ -1,0 +1,19 @@
+{title}{reset}
+~~{Y} References {E}
+
+{B}
+https://18f.gsa.gov/2015/07/16/introduction-to-https-webinar
+http://erik.io/blog/2013/06/08/a-basic-guide-to-when-and-how
+-to-deploy-https/
+https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_P
+revention_Cheat_Sheet
+http://resources.infosecinstitute.com/securing-cookies-httpo
+nly-secure-flags/
+http://bottlepy.org/docs/dev/tutorial.html
+https://hbr.org/2015/07/why-cybersecurity-is-so-difficult-to
+-get-right
+Laura Bell - The Anarchist's Guide to Application Security
+Etsy Code as Craft, 2015
+https://devcenter.heroku.com/articles/ssl-endpoint
+http://gunicorn-docs.readthedocs.org/en/latest/deploy.html
+{E}

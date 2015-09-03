@@ -5,8 +5,8 @@
     * Inspired by {P}presentty{E} (James E. Blair, Linux.conf.au)
 
     * Written in Python, running on a microcontroller
-
-    * {B}http://micropython.org/{E}
+ 
+      {B}http://micropython.org/{E}
 
       - STM32F405 (Cortex M4)
       - 1MB Flash

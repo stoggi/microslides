@@ -9,7 +9,7 @@ colors = {
 	'{Y}': '\033[93m',
 	'{R}': '\033[91m',
 	'{CY}': '\033[96m',
-	'{Grey}': '\033[1;30m',
+	'{Grey}': '\033[0;37m',
 	'{Black}': '\033[30m',
 	'{BG_CY}': '\033[46m',
 	'{BG_G}': '\033[42m',
@@ -82,6 +82,7 @@ def play(slide_folder, start=0):
 
 def slides(foldername):
 	slides = os.listdir(foldername)
+	slides.sort()
 	return [foldername + '/' + slide for slide in slides]
 
 def list(filename):

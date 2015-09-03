@@ -5,10 +5,10 @@
 
 
 
- 1. To reinforce what I learned on the safestack course.
+ 1. To reinforce what I learned on the SafeStack course.
 
 
  2. Something outside my comfort zone.
 
 
- 3. To share a few interesting bits with you.
+ 3. To help get more developers interested in security!

@@ -1,0 +1,14 @@
+{title}{reset}
+~~{Y} Cross Site Scripting (XSS) {E}
+
+
+
+  * Always escape user input.
+
+  * Always escape stored user content when writing to page.
+
+  * Don't write your own sanitisation function.
+
+  * Use 'white list' validatation.
+
+  * Protect cookies with httponly.

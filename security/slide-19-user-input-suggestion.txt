@@ -1,0 +1,18 @@
+{title}{reset}
+~~{Y} User Input {E}
+
+
+
+
+    * Check your framework for tools to escape user input
+
+    * Most database drivers have a proper way to bind 
+      parameters to queries
+
+    * Make sure webserver is running with low priviliges
+
+    * Create an appropriate user for the application on the
+      database.
+
+    * Always perform 'white lists' instead of 'black lists'
+

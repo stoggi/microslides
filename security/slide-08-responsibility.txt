@@ -7,7 +7,7 @@
 
 
 
-     As a developer, security is your responsibility{pause}{reset}
+     As a developer, security is my responsibility{pause}{reset}
 
 
 

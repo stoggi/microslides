@@ -4,13 +4,13 @@
 
 
 
-    * Always deploy HTTPS for all content.
+    * Use HTTPS for your whole website
 
-    * Redirect all requests to be served over HTTPS.
+    * If you don't know what you are doing, don't host it 
+      yourself
 
-    * Enable strict transport security (HSTS)
+    * Keep your private keys safe!
 
-    * Set the secure flag on your cookies
+        
+          {B}https://www.ssllabs.com/ssltest/{E}
 
-    * Configure your ciphers (Forward Secrecy, Strength)
-      {B}https://www.ssllabs.com/ssltest/{E}

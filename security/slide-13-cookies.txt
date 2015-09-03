@@ -1,0 +1,19 @@
+{title}{reset}
+~~{Y} Cookies {E}
+
+
+     There is this magical place you can store things
+
+                      {B}Cookies!{E}
+
+          Let's store our password in a cookie
+
+{pause}
+          {R}This sounds like a bad idea, but why?{E}
+
+    {pause}* Cookies can be read using JavaScript {pause}{G}httponly{E}
+
+    {pause}* Cookies are sent with every request {pause}{G}secure{E}
+
+    {pause}* Ultimately, cookies are not encrypted by the client
+      do not store anything personal, or identifiable

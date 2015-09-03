@@ -1,0 +1,19 @@
+{title}{reset}
+~~{Y} User Input {E}
+
+
+
+ {pause}* Do not trust your users!
+
+ {pause}* They will feed your database cream cheese and pizza, 
+   just to see what will happen.
+
+
+{pause}query = {Y}"SELECT * FROM users WHERE pass='" + userinput + "'"{E}
+
+{pause}userinput = {Y}"' or 1 #"{E}
+
+{pause}query = {Y}"SELECT * FROM users WHERE pass='' or 1 #'"{E}
+{pause}query = {Y}"CHEESE"{E}, result = {R}*{E}
+
+ {pause}* Oh, but I use a NoSQL database{pause}, that executes Javascript

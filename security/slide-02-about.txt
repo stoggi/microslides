@@ -12,4 +12,8 @@
 
     * Open source software, and open hardware
 
-    * Most recently, {R}Security{E}
+    * Most recently, {Y}Security{E}
+
+ {R}Disclamer:{E} I'm not a security expert, please please use
+            the following information as a start of your
+            security journey, not the end.

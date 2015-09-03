@@ -1,0 +1,19 @@
+{title}{reset}
+~~{Y} Cross Site Scripting (XSS) {E}
+
+
+        Malicious scripts sent to a users browser
+
+
+  * When printing unescaped user input back to the page
+    {P}eg. search query{E}
+
+  * When storing user input in a database, then outputting
+    to the page later
+    {P}eg. blog or user comment{E}
+
+
+  Consequences can be pretty bad:
+
+  Read cookies, redirect user, modify page, phishing scams,
+  deface page, steal information, make requests as user
