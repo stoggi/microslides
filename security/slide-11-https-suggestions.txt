@@ -12,5 +12,6 @@
     * Keep your private keys safe!
 
         
-          {B}https://www.ssllabs.com/ssltest/{E}
+    {B}https://www.ssllabs.com/ssltest/{E}
+    {B}Mozilla SSL Config Generator{E}
 
