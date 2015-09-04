@@ -11,9 +11,9 @@
 
 {pause}query = {Y}"SELECT * FROM users WHERE pass='" + userinput + "'"{E}
 
-{pause}userinput = {Y}"' or 1 #"{E}
+{pause}userinput = {Y}"' or 1=1 #"{E}
 
-{pause}query = {Y}"SELECT * FROM users WHERE pass='' or 1 #'"{E}
+{pause}query = {Y}"SELECT * FROM users WHERE pass='' or 1=1 #'"{E}
 {pause}query = {Y}"CHEESE"{E}, result = {R}*{E}
 
  {pause}* Oh, but I use a NoSQL database{pause}, that executes Javascript
