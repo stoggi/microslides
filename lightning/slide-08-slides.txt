@@ -10,7 +10,7 @@
 
     * Written in Python, running on a microcontroller
 
-    * http://micropython.org/
+    * {B}http://micropython.org/{E}
 
       - STM32F405 (Cortex M4)
       - 1MB Flash
