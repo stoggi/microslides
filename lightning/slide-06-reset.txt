@@ -1,0 +1,13 @@
+{title}{reset}
+~~{Y} Colours {E}
+
+
+
+
+    You can go back,..{pause}{reset}
+
+
+
+
+
+    And overwrite text!

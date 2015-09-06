@@ -1,0 +1,18 @@
+{title}{reset}
+~~{Y} These Slides {E}
+
+
+
+    {B}https://github.com/stoggi/microslides{E}
+
+
+    * Inspired by {P}presentty{E} (James E. Blair, Linux.conf.au)
+
+    * Written in Python, running on a microcontroller
+
+    * http://micropython.org/
+
+      - STM32F405 (Cortex M4)
+      - 1MB Flash
+      - 192KB RAM
+      - Python 3

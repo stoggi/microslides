@@ -1,0 +1,13 @@
+{title}{reset}
+~~{Y} Colours {E}
+
+
+
+
+    You can use {R}Red{E}, {B}Blue{E}, {P}Purple{E}, {G}Green{E}.
+
+    
+    {BG_G}Even some background colours{E}
+
+
+    {BG_CY}Great colours!{E}
